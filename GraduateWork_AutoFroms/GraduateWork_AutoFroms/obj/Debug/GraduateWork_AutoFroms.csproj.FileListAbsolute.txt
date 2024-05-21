@@ -1,0 +1,16 @@
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\GraduateWork_AutoFroms.exe.config
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\GraduateWork_AutoFroms.exe
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\GraduateWork_AutoFroms.pdb
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\asa-TZ\GraduateWork_AutoFroms.resources.dll
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\Xceed.Document.NET.dll
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\bin\Debug\Xceed.Words.NET.dll
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.csproj.AssemblyReference.cache
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.Form1.resources
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.Properties.Resources.resources
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.Form1.asa-TZ.resources
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.csproj.GenerateResource.cache
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.csproj.CoreCompileInputs.cache
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\asa-TZ\GraduateWork_AutoFroms.resources.dll
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.csproj.CopyComplete
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.exe
+C:\Users\cools\source\repos\GraduateWork_AutoFroms\GraduateWork_AutoFroms\obj\Debug\GraduateWork_AutoFroms.pdb
